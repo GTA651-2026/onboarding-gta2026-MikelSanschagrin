@@ -10,8 +10,8 @@
 
 ## 1. Outil utilisé
 
-Outil : __
-Version / date d'accès : __
+Outil : _Copilote_
+Version / date d'accès : _2026-05-13_
 
 *(Si plusieurs outils, dupliquez cette section.)*
 
@@ -21,7 +21,7 @@ Version / date d'accès : __
 
 *(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
 
-__
+__Il m'a aider a analyser les documents rapidement ainsi qu'a bien structurer mes pensées (mes points) que je voulais parler de.
 
 ---
 
@@ -29,8 +29,8 @@ __
 
 *(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
 
-- __
-- __
+- __GTA651-01_slides
+- __https://github.com/customer-stories/accenture
 
 ---
 
@@ -38,7 +38,7 @@ __
 
 *(Ce que l'IA a proposé mais que vous avez changé, corrigé ou écarté — et pourquoi.)*
 
-- __
+- _Certaines suggestions initiales générées par copilot ne correspondaient pas exactement aux consignes ou contenaient des erreurs, donc je ne les ai pas utilisées. J’ai utilisé les idées principales proposées par l’IA pour structurer mon raisonnement, mais j’ai reformulé l’ensemble avec mes propres mots afin de respecter les consignes. J’ai ajusté la structure pour mieux correspondre aux exigences du travail et aux notions vues en cours.
 - __
 
 ---
@@ -48,5 +48,5 @@ __
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : _Mikel Sanschagrin_
+Date : _2026-05-13_
